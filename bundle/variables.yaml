@@ -1,0 +1,4 @@
+variables:
+- team: cb-ci-frohnapw
+- admin-user: frohnapw-admin
+- manager-user: frohnapw
